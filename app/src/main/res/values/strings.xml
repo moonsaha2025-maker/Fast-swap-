@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fast to swap</string>
+    <string name="preview_header_title">Live Server Preview</string>
+    <string name="tab_editor">Editor</string>
+    <string name="tab_rgb">RGB Studio</string>
+    <string name="tab_emojis">Emojis</string>
+    <string name="tab_swap_export">Swap &amp; Export</string>
+    <string name="action_swap_lines">Swap 1⇄2</string>
+    <string name="action_center_line">Center</string>
+    <string name="action_copy_motd">Copy MOTD</string>
+    <string name="action_copy_to_clipboard">Copy to Clipboard</string>
+    <string name="action_save_slot">Save Slot</string>
+    <string name="cd_server_icon">Server icon preview, tap to customize</string>
+    <string name="cd_ping_bars">Minecraft server connection signal indicator</string>
+    <string name="cd_swap_lines">Swap MOTD line 1 and line 2</string>
+    <string name="cd_undo">Undo last edit</string>
+    <string name="cd_copy">Copy to clipboard</string>
+    <string name="cd_share">Share MOTD output</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Fast to swap",
+  "description": "Minecraft MOTD generator and creator with live server-list preview, RGB gradient studio, rich emoji and symbol packs, auto-centering, and quick-swap presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
